@@ -1,7 +1,6 @@
 :root {
   color-scheme: light;
   --ocean: #12486a;
-  --water: #167f8e;
   --shallow: #77cbd2;
   --sand: #f3e0bc;
   --foam: #f5faf7;
@@ -112,7 +111,7 @@ a:focus-visible {
 .hero-inner { padding-block: 5rem 6rem; }
 .hero-copy { max-width: 33rem; }
 .eyebrow {
-  color: var(--water);
+  color: var(--ocean);
   font-weight: 800;
   font-size: .875rem;
   letter-spacing: .15em;
@@ -219,7 +218,6 @@ h2 { font-size: clamp(1.85rem, 4vw, 3.45rem); font-weight: 850; letter-spacing: 
   border-radius: 1.4rem;
   box-shadow: 0 12px 31px rgb(23 56 74 / 15%);
 }
-.story-copy .eyebrow { color: var(--ocean); }
 .story-copy > p:not(.eyebrow) { color: var(--ink); max-width: 32ch; }
 .story-copy > p + p { margin-top: .65rem; }
 .footer-inner { min-height: 6rem; padding-block: 1.25rem; }
