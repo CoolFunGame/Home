@@ -1,0 +1,7 @@
+* text=auto
+.gitattributes text eol=crlf
+*.html text eol=crlf
+*.css text eol=crlf
+*.md text eol=crlf
+*.webp binary
+*.png binary
