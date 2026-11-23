@@ -1,4 +1,4 @@
-# Fish Sort 官网
+# Dream Aquarium 官网
 
 游戏主页和隐私政策由 GitHub Pages 托管。源文件是静态 HTML 和 CSS。
 
